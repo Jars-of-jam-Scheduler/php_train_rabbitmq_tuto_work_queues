@@ -1,0 +1,4 @@
+*:Zone.Identifier
+*.code-workspace
+.env
+vendor/
